@@ -1,9 +1,0 @@
-Make a window. --
-
-Make a game loop. --
-
-add a character (Drawn) to the screen. --
-
-Add a block. --
-
-Make the character move. --
